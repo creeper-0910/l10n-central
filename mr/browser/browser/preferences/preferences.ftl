@@ -447,7 +447,7 @@ home-restore-defaults =
     .label = पूर्वनिर्धारित स्थितित आणा
     .accesskey = R
 
-# "Firefox" should be treated as a brand and kept in English,
+# "Floorp" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox मुखपृष्ठ (पूर्वनिर्धारित)
@@ -762,8 +762,8 @@ history-header = इतिहास
 # "Firefox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
+#   - Simply as "Floorp", moving the verb into each option.
+#     This will result in "Floorp" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name } करेल
     .accesskey = w

@@ -27,8 +27,8 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--brand-shorter-name = Firefox
--brand-short-name = Firefox
--brand-full-name = Mozilla Firefox
--vendor-short-name = Mozilla
+-brand-shorter-name = Floorp
+-brand-short-name = Floorp
+-brand-full-name = Ablaze Floorp
+-vendor-short-name = Ablaze
 trademarkInfo = Firefox le Matshwaomoono a yone ke matshwaokgwebo a Setlamo sa Mozilla.

@@ -28,7 +28,7 @@
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
 -brand-shorter-name = Fayafoxi
--brand-short-name = Firefox
--brand-full-name = Mozilla Firefox
+-brand-short-name = Floorp
+-brand-full-name = Ablaze Floorp
 -vendor-short-name = Mozira
 trademarkInfo = Firefox nibirango byayo ni umutungo w' ifatizo rya Mozilla.

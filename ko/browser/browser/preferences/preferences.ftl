@@ -438,7 +438,7 @@ home-newtabs-mode-label = 새 탭
 home-restore-defaults =
     .label = 기본값으로 복원
     .accesskey = R
-# "Firefox" should be treated as a brand and kept in English,
+# "Floorp" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox 홈 (기본값)
@@ -785,8 +785,8 @@ history-header = 기록
 # "Firefox will" + "Remember history".
 #
 # If this doesn't work for your language, you can translate this message:
-#   - Simply as "Firefox", moving the verb into each option.
-#     This will result in "Firefox" + "Will remember history", etc.
+#   - Simply as "Floorp", moving the verb into each option.
+#     This will result in "Floorp" + "Will remember history", etc.
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }가
     .accesskey = w

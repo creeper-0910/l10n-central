@@ -27,6 +27,6 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--brand-full-name = Mozilla Firefox
--vendor-short-name = Mozilla
+-brand-full-name = Ablaze Floorp
+-vendor-short-name = Ablaze
 trademarkInfo = Firefox ne Firefox ahyɛnsewde nyinara yɛ Mozilla Foundation de. Yesuo yɛn mbra akwanya nyinara mu.

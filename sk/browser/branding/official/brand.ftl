@@ -48,7 +48,7 @@
         [ins] Firefoxom
     }
     .gender = masculine
--brand-full-name = Mozilla Firefox
+-brand-full-name = Ablaze Floorp
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name =

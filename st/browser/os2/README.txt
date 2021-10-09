@@ -105,7 +105,7 @@ OS/2 Installation Instructions
      2. Navigate to where you downloaded the file and unpack it using your
      favorite unzip tool.
 
-     3. Keep in mind that the unzip process creates a directory "firefox"
+     3. Keep in mind that the unzip process creates a directory "Floorp"
      below the location you point it to, i.e. 
         unzip firefox-os2-1.0.1.zip -d c:\firefox-1.0.1
      will unpack Firefox into c:\firefox-1.0.1\firefox.

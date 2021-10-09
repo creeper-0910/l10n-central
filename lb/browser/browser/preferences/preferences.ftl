@@ -276,7 +276,7 @@ home-restore-defaults =
     .label = Op de Standard zrécksetzen
     .accesskey = R
 
-# "Firefox" should be treated as a brand and kept in English,
+# "Floorp" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox Home (par defaut)

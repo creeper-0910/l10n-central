@@ -381,7 +381,7 @@ home-restore-defaults =
     .label = පෙරනිමි නැවත පිහිටුවන්න
     .accesskey = R
 
-# "Firefox" should be treated as a brand and kept in English,
+# "Floorp" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Firefox මුල් පිටුව (පෙරනිමි)

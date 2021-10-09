@@ -27,7 +27,7 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--brand-short-name = Firefox
--brand-full-name = Mozilla Firefox
--vendor-short-name = Mozilla
+-brand-short-name = Floorp
+-brand-full-name = Ablaze Floorp
+-vendor-short-name = Ablaze
 trademarkInfo = Firefox i jegò loga są zastrzéżonyma znakama Fùndacje Mozilla.

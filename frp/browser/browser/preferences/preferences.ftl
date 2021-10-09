@@ -108,7 +108,7 @@ browsing-title = Navìgacion
 
 ## Home Section - Home Page Customization
 
-# "Firefox" should be treated as a brand and kept in English,
+# "Floorp" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
     .label = Reçua de Firefox

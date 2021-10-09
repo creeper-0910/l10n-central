@@ -55,7 +55,7 @@
 # link title for https://www.mozilla.org/en-US/firefox/customize/
 
 
-#define firefox_customize "Firefox"ni moslash
+#define firefox_customize "Floorp"ni moslash
 
 
 # LOCALIZATION NOTE (firefox_community):
